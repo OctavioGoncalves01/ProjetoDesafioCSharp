@@ -1,0 +1,35 @@
+1. Calculadora Simples
+Objetivo: Criar uma calculadora que possa realizar operações básicas como adição, subtração, multiplicação e divisão.
+Recursos Utilizados: Estruturas condicionais (if, switch), operadores, métodos.
+
+2. Conversor de Unidades
+Objetivo: Criar um programa que converta unidades de medida, como comprimento (metros para quilômetros), massa (gramas para quilogramas), e temperatura (Celsius para Fahrenheit).
+Recursos Utilizados: Estruturas condicionais, métodos, loops
+
+3. Calculadora de IMC (Índice de Massa Corporal)
+Objetivo: Calcular o IMC com base na altura e peso do usuário e classificar o resultado em categorias (por exemplo, abaixo do peso, normal, sobrepeso).
+Recursos Utilizados: Operações matemáticas, estruturas condicionais.
+
+4. Conversor de Moedas
+Objetivo: Converter valores entre diferentes moedas (por exemplo, reais para dólares, euros para libras). Pode usar taxas de câmbio fixas ou integradas com uma API para obter taxas atualizadas.
+Recursos Utilizados: Operações matemáticas, estruturas condicionais, manipulação de dados (se usar uma API).
+
+5. Calculadora de Juros Compostos
+Objetivo: Calcular o valor futuro de um investimento com base em uma taxa de juros composta.
+Recursos Utilizados: Fórmulas matemáticas, operações matemáticas, entrada de dados do usuário.
+
+5. Gerador de Senhas Aleatórias
+Objetivo: Gerar senhas aleatórias com diferentes critérios (comprimento, inclusão de caracteres especiais, números e letras).
+Recursos Utilizados: Manipulação de strings, randomização.
+
+6. Conversor de Tempo
+Objetivo: Converter unidades de tempo (por exemplo, horas para minutos, minutos para segundos).
+Recursos Utilizados: Operações matemáticas, estruturas condicionais.
+
+7. Calculadora de Área e Perímetro
+Objetivo: Calcular a área e o perímetro de formas geométricas básicas (por exemplo, quadrado, retângulo, círculo).
+Recursos Utilizados: Fórmulas matemáticas, operações matemáticas.
+
+8. Calculadora de Descontos
+Objetivo: Aplicar um desconto a um preço original e calcular o preço final.
+Recursos Utilizados: Operações matemáticas, estruturas condicionais.
