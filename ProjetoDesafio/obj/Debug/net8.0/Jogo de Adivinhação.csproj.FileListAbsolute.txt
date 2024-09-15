@@ -1,0 +1,14 @@
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\Jogo de Adivinhação\obj\Debug\net8.0\Jogo de Adivinhação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\Jogo de Adivinhação\obj\Debug\net8.0\Jogo de Adivinhação.AssemblyInfoInputs.cache
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\Jogo de Adivinhação\obj\Debug\net8.0\Jogo de Adivinhação.AssemblyInfo.cs
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\Jogo de Adivinhação\obj\Debug\net8.0\Jogo de Adivinhação.csproj.CoreCompileInputs.cache
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\Jogo de Adivinhação\bin\Debug\net8.0\Jogo de Adivinhação.exe
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\Jogo de Adivinhação\bin\Debug\net8.0\Jogo de Adivinhação.deps.json
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\Jogo de Adivinhação\bin\Debug\net8.0\Jogo de Adivinhação.runtimeconfig.json
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\Jogo de Adivinhação\bin\Debug\net8.0\Jogo de Adivinhação.dll
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\Jogo de Adivinhação\bin\Debug\net8.0\Jogo de Adivinhação.pdb
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\Jogo de Adivinhação\obj\Debug\net8.0\Jogo de Adivinhação.dll
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\Jogo de Adivinhação\obj\Debug\net8.0\refint\Jogo de Adivinhação.dll
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\Jogo de Adivinhação\obj\Debug\net8.0\Jogo de Adivinhação.pdb
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\Jogo de Adivinhação\obj\Debug\net8.0\Jogo de Adivinhação.genruntimeconfig.cache
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\Jogo de Adivinhação\obj\Debug\net8.0\ref\Jogo de Adivinhação.dll
