@@ -1,28 +1,30 @@
 ﻿//*****************************************************************************************************
 
 //By Octavio Goncalves 
-//Data: 15/09/2024
-//Versão: 0.0.2
+//Data: 16/09/2024
+//Versão: 0.0.3
 
 //*****************************************************************************************************
 
 
 using ProjetoDesafio.Models;
 
-
-
-CalculadoraSimples c1 = new CalculadoraSimples();
-Jogo p1 = new Jogo();
+//
+ConversorDeUnidades conversorObjeto = new ConversorDeUnidades();
+CalculadoraSimples calculadoraObjeto = new CalculadoraSimples();
+Jogo jogoObjeto = new Jogo();
 
 bool menu = true;
+
+//Menu de interação
 while (menu)
 {
     Console.WriteLine("-----------------------------------------------------------------------------");
     Console.WriteLine("O que deseja fazer: ");
-
     Console.WriteLine("Jogar - 1");
     Console.WriteLine("Calculadora Simples - 2");
     Console.WriteLine("Conversor de Unidades - 3");
+    Console.WriteLine("Calculadora de IMC - 4");
     Console.WriteLine("Sair - 0");
 
     string entrada = Console.ReadLine();
@@ -34,20 +36,26 @@ while (menu)
             menu = false;
             break;
         case "1":
-            p1.Jogar();
+            Console.WriteLine("Abrido jogo de Adivinhação...");
+            jogoObjeto.Jogar();
             break;
         
         case "2":
             Console.WriteLine("Abrindo Calculadora...");
-            c1.CalculadoraMenu();
+            calculadoraObjeto.CalculadoraMenu();
             break;
         
         case "3":
-            Console.WriteLine("Ainda não implementado");
+            Console.WriteLine("Abrindo Conversor...");
+            conversorObjeto.Converter();
+            break;
+
+        case "4":
+            Console.WriteLine("Ainda não implementado...");
             break;
 
         default:
-            Console.WriteLine("Opção inválida. Por favor, selecione 0 para sair ou 1 para jogar.");
+            Console.WriteLine("Opção inválida. Por favor, selecione de 0 a 3.");
             break;
     }
 }

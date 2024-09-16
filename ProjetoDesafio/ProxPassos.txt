@@ -1,10 +1,7 @@
-1. Calculadora Simples
-Objetivo: Criar uma calculadora que possa realizar operações básicas como adição, subtração, multiplicação e divisão.
-Recursos Utilizados: Estruturas condicionais (if, switch), operadores, métodos.
+1. Calculadora Simples X
 
-2. Conversor de Unidades
-Objetivo: Criar um programa que converta unidades de medida, como comprimento (metros para quilômetros), massa (gramas para quilogramas), e temperatura (Celsius para Fahrenheit).
-Recursos Utilizados: Estruturas condicionais, métodos, loops
+
+2. Conversor de Unidades X 
 
 3. Calculadora de IMC (Índice de Massa Corporal)
 Objetivo: Calcular o IMC com base na altura e peso do usuário e classificar o resultado em categorias (por exemplo, abaixo do peso, normal, sobrepeso).
@@ -33,3 +30,6 @@ Recursos Utilizados: Fórmulas matemáticas, operações matemáticas.
 8. Calculadora de Descontos
 Objetivo: Aplicar um desconto a um preço original e calcular o preço final.
 Recursos Utilizados: Operações matemáticas, estruturas condicionais.
+
+
+(TheMovieDataBase)
