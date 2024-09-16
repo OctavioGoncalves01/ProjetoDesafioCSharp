@@ -2,17 +2,19 @@
 
 //By Octavio Goncalves 
 //Data: 15/09/2024
-//Versão: 0.0.1
+//Versão: 0.0.2
 
 //*****************************************************************************************************
 
 
 using ProjetoDesafio.Models;
 
+
+
+CalculadoraSimples c1 = new CalculadoraSimples();
 Jogo p1 = new Jogo();
 
 bool menu = true;
-
 while (menu)
 {
     Console.WriteLine("-----------------------------------------------------------------------------");
@@ -36,7 +38,8 @@ while (menu)
             break;
         
         case "2":
-            Console.WriteLine("Ainda não implementado");
+            Console.WriteLine("Abrindo Calculadora...");
+            c1.CalculadoraMenu();
             break;
         
         case "3":
@@ -48,3 +51,4 @@ while (menu)
             break;
     }
 }
+

@@ -1,0 +1,15 @@
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\ProjetoDesafioCSharp\ProjetoDesafio\bin\Debug\net8.0\ProjetoDesafio.exe
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\ProjetoDesafioCSharp\ProjetoDesafio\bin\Debug\net8.0\ProjetoDesafio.deps.json
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\ProjetoDesafioCSharp\ProjetoDesafio\bin\Debug\net8.0\ProjetoDesafio.runtimeconfig.json
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\ProjetoDesafioCSharp\ProjetoDesafio\bin\Debug\net8.0\ProjetoDesafio.dll
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\ProjetoDesafioCSharp\ProjetoDesafio\bin\Debug\net8.0\ProjetoDesafio.pdb
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\ProjetoDesafioCSharp\ProjetoDesafio\obj\Debug\net8.0\ProjetoDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\ProjetoDesafioCSharp\ProjetoDesafio\obj\Debug\net8.0\ProjetoDesafio.AssemblyInfoInputs.cache
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\ProjetoDesafioCSharp\ProjetoDesafio\obj\Debug\net8.0\ProjetoDesafio.AssemblyInfo.cs
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\ProjetoDesafioCSharp\ProjetoDesafio\obj\Debug\net8.0\ProjetoDesafio.csproj.CoreCompileInputs.cache
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\ProjetoDesafioCSharp\ProjetoDesafio\obj\Debug\net8.0\ProjetoDesafio.sourcelink.json
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\ProjetoDesafioCSharp\ProjetoDesafio\obj\Debug\net8.0\ProjetoDesafio.dll
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\ProjetoDesafioCSharp\ProjetoDesafio\obj\Debug\net8.0\refint\ProjetoDesafio.dll
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\ProjetoDesafioCSharp\ProjetoDesafio\obj\Debug\net8.0\ProjetoDesafio.pdb
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\ProjetoDesafioCSharp\ProjetoDesafio\obj\Debug\net8.0\ProjetoDesafio.genruntimeconfig.cache
+C:\Users\octav\OneDrive\Área de Trabalho\DIO\Treino\ProjetoDesafioCSharp\ProjetoDesafio\obj\Debug\net8.0\ref\ProjetoDesafio.dll
