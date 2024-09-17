@@ -3,9 +3,7 @@
 
 2. Conversor de Unidades X 
 
-3. Calculadora de IMC (Índice de Massa Corporal)
-Objetivo: Calcular o IMC com base na altura e peso do usuário e classificar o resultado em categorias (por exemplo, abaixo do peso, normal, sobrepeso).
-Recursos Utilizados: Operações matemáticas, estruturas condicionais.
+3. Calculadora de IMC (Índice de Massa Corporal) X
 
 4. Conversor de Moedas
 Objetivo: Converter valores entre diferentes moedas (por exemplo, reais para dólares, euros para libras). Pode usar taxas de câmbio fixas ou integradas com uma API para obter taxas atualizadas.

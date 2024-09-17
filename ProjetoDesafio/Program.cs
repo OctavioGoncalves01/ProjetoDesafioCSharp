@@ -10,6 +10,7 @@
 using ProjetoDesafio.Models;
 
 //
+Imc imcCalcular = new Imc();
 ConversorDeUnidades conversorObjeto = new ConversorDeUnidades();
 CalculadoraSimples calculadoraObjeto = new CalculadoraSimples();
 Jogo jogoObjeto = new Jogo();
@@ -28,6 +29,8 @@ while (menu)
     Console.WriteLine("Sair - 0");
 
     string entrada = Console.ReadLine();
+
+    Console.WriteLine("-----------------------------------------------------------------------------");
 
     switch (entrada)
     {
@@ -51,7 +54,8 @@ while (menu)
             break;
 
         case "4":
-            Console.WriteLine("Ainda não implementado...");
+            Console.WriteLine("Entrando na Aplicação...");
+            imcCalcular.MostrarIMC();
             break;
 
         default:
